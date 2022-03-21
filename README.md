@@ -1,6 +1,6 @@
 # ESI MTT Courseware Reports
 
-Supported courseware:
+Supported courseware (if any missing or having issues, [report it](https://github.com/ESI-EMEA/ESI-Courseware_PowerBI/issues):
 
 | CourseID  | SLIDES             | LEARN              | LABS | Comments                                                                                           |
 |-----------|--------------------|--------------------|------|----------------------------------------------------------------------------------------------------|
