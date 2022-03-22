@@ -31,3 +31,11 @@ Supported courseware (if any missing or having issues, [report it](https://githu
 | SC-200    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | SC-300    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | SC-400    | :white_check_mark: | :white_check_mark: | :white_check_mark:
+
+
+
+# Solution Architecture
+
+![image](https://user-images.githubusercontent.com/64772417/159467657-4d321559-71d0-4031-9e0c-2de2ff0e6df4.png)
+
+- Python module extractor: https://github.com/ESI-EMEA/ESI_Learn_modules_extract
