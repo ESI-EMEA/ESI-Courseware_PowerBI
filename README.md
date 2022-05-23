@@ -17,6 +17,8 @@ Supported courseware (if any missing or having issues, [report it](https://githu
 | AZ-400    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | AZ-500    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | AZ-700    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
+| AZ-800    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
+| AZ-801    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | PL-300    | :white_check_mark: |  :white_check_mark:        | :white_check_mark:  | no MS Learn reported bugs for now                                                                     |
 | DP-090    | :question:         | :white_check_mark: | :white_check_mark: | no slides work items in ADO  for now                                                                      |
 | DP-100    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
