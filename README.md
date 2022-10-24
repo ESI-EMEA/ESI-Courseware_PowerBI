@@ -24,11 +24,12 @@ Supported courseware (if any missing or having issues, [report it](https://githu
 | DP-100    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | DP-203    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | DP-300    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
-| DP-420    | :white_check_mark: | :white_check_mark: | :white_check_mark: | WARNING! aka.ms/coursedp-420 points to different collection (different website format to the rest) |
+| DP-420    | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+| DP-500    | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | SC-200    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | SC-300    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | SC-400    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
-| AZ-900    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
+| AZ-900    | :white_check_mark: | :white_check_mark: | NO github  |
 | AI-900    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
 | SC-900    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
 | DP-900    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
