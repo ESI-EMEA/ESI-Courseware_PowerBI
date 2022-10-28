@@ -10,25 +10,25 @@ Supported courseware (if any missing or having issues, [report it](https://githu
 | AI-102    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | AZ-104    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | AZ-120    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
-| AZ-140    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
+| AZ-140    | :x: | :x: | :x: |  not for MTTs                                                                                                   |
 | AZ-204    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | AZ-220    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | AZ-305    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | AZ-400    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | AZ-500    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
 | AZ-700    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
-| AZ-800    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
-| AZ-801    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
-| PL-300    | :white_check_mark: |  :white_check_mark:        | :white_check_mark:  | no MS Learn reported bugs for now                                                                     |
-| DP-090    | :question:         | :white_check_mark: | :white_check_mark: | no slides work items in ADO  for now                                                                      |
+| AZ-800    | :x: | :x: | :x: |  not for MTTs  |                                                                                                    
+| AZ-801    | :x: | :x: | :x: |  not for MTTs |
+| PL-300    | :white_check_mark: |  :white_check_mark:        | :white_check_mark:  | 
+| DP-090    | :x: | :x: | :x: |  not for MTTs  |
 | DP-100    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | DP-203    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | DP-300    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
-| DP-420    | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+| DP-420    | :x: | :x: | :x: |  not for MTTs | 
 | DP-500    | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | SC-200    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                                                                                                    |
 | SC-300    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |                                                                                                    |
-| SC-400    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
+| SC-400    | :x: | :x: | :x: |  not for MTTs |
 | AZ-900    | :white_check_mark: | :white_check_mark: | NO github  |
 | AI-900    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
 | SC-900    | :white_check_mark: | :white_check_mark: | :white_check_mark:  |
